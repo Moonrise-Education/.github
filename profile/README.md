@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moonrise-Education/.github/HEAD/profile/assets/moonrise-logo.png" width="220" alt="Logo Moonrise Education">
+  <img src="https://raw.githubusercontent.com/Moonrise-Education/.github/HEAD/profile/assets/moonrise-logo-card.png" width="300" alt="Logo Moonrise Education">
 </p>
 
 <p align="center">

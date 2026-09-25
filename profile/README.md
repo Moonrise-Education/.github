@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Moonrise-Education/.github/HEAD/profile/assets/moonrise-logo.png" width="220" alt="Logo Moonrise Education">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/moonrise-education/.github/HEAD/profile/assets/moonrise-banner.svg" width="100%" alt="Moonrise Education — Former les talents. Construire les compétences de demain.">
 </p>
 
